@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend | Data Science`**
 
-Me chamo Manoel Antonio Dutra Rodrigues, tenho 22 anos, e hoje, moro no Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCS e trabalho com automação para indústria, voltado a programação de CLP e Robos KUKA, utilizando as linguagens Ladder e KRL. Estudo programação com foco no desenvolvimento Backend e Data Science tendo Python como principal stack. 
+Me chamo Manoel Antonio Dutra Rodrigues, tenho 22 anos, e hoje, moro no Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na FSG e trabalho com automação para indústria, voltado a programação de CLP e Robos KUKA, utilizando as linguagens Ladder e KRL. Estudo programação com foco no desenvolvimento Backend e Data Science tendo Python como principal stack. 
 
 ---
 
