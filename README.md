@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Manoel Rodrigues
 
-**`Desenvolvedor Backend | Data Science`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação na FSG e trabalho com automação para indústria, voltado a programação de CLP e Robos KUKA, utilizando as linguagens Ladder e KRL. Estudo programação com foco no desenvolvimento Full Stack. 
 
