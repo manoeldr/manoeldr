@@ -87,6 +87,13 @@ Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Gran
   style="padding-right: 10px;"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+[![Manoel GitHub stats](https://github-stats-extended.vercel.app/api?username=manoeldr)](https://github.com/stats-organization/github-stats-extended)
 
 <br/>
 <br/>
