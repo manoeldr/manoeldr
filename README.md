@@ -67,8 +67,6 @@ Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Gran
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 <img 
   align="center"
@@ -76,7 +74,7 @@ Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Gran
   height="500px"
   width="500px"
   style="padding-right: 10px;"   
-  src="https://github.com/user-attachments/assets/b79d7b93-94e2-4e89-b8b4-3042139ee48b" 
+  src="https://github.com/user-attachments/assets/0961dc85-bd0f-4ff4-826c-b438700bf2b1" 
 />
 
 
