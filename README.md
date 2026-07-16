@@ -8,24 +8,24 @@ Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Gran
 
 ### 🤖 Minha Stack
 
-<!-- HTML -->
+<!-- TypeScript -->
 <img 
   align="left" 
-  alt="HTML" 
-  title="HTML"
+  alt="TypeScript" 
+  title="TypeScript"
   width="50px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
           
-<!-- CSS -->
+<!-- React -->
 <img 
   align="left" 
-  alt="CSS" 
-  title="CSS"
+  alt="React" 
+  title="React"
   width="50px" 
   style="padding-right: 10px;"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <!-- Python -->
