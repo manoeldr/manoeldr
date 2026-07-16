@@ -57,36 +57,6 @@ Me chamo Manoel Antonio Dutra Rodrigues, tenho 23 anos, e hoje, moro no Rio Gran
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-
-<!-- Flask -->
-<img 
-  align="left" 
-  alt="Flask" 
-  title="Flask"
-  width="50px" 
-  style="padding-right: 10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-          
-<!-- SQL Alchemy -->
-<img 
-  align="left" 
-  alt="SQL Alchemy" 
-  title="SQL Alchemy"
-  width="50px" 
-  style="padding-right: 10px;"     
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
-/>
-
-<!-- GitHub -->
-<img 
-  align="left" 
-  alt="GitHub" 
-  title="GitHub"
-  width="50px" 
-  style="padding-right: 10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
 <br/>
 <br/>
 
